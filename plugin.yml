@@ -1,0 +1,12 @@
+name: MapImageEngine
+main: FaigerSYS\MapImageEngine\MapImageEngine
+version: "1.2.0"
+api: 4.0.0
+load: POSTWORLD
+author: FaigerSYS
+description: "Image engine for MC:BE servers"
+
+permissions:
+  mapimageengine:
+    default: op
+    description: "Allows command usage (/mapimageengine)"
